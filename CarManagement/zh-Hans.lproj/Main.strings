@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "C"; ObjectID = "16d-LE-nJY"; */
+"16d-LE-nJY.normalTitle" = "C";
+
+/* Class = "UIButton"; normalTitle = "预约"; ObjectID = "1lX-xk-13J"; */
+"1lX-xk-13J.normalTitle" = "预约";
+
+/* Class = "UITabBarItem"; title = "用户"; ObjectID = "R3k-Ky-Uva"; */
+"R3k-Ky-Uva.title" = "用户";
+
+/* Class = "UIButton"; normalTitle = "违章查询"; ObjectID = "VqS-g0-1V0"; */
+"VqS-g0-1V0.normalTitle" = "违章查询";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "ZVY-yL-cqp"; */
+"ZVY-yL-cqp.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "N"; ObjectID = "grb-9T-yMX"; */
+"grb-9T-yMX.normalTitle" = "N";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rET-TZ-Wcp"; */
+"rET-TZ-Wcp.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "地图"; ObjectID = "t1W-MW-Ltp"; */
+"t1W-MW-Ltp.title" = "地图";
+
+/* Class = "UIButton"; normalTitle = "列表"; ObjectID = "vp4-9F-U2Z"; */
+"vp4-9F-U2Z.normalTitle" = "列表";
